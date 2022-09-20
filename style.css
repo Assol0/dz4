@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+.wrapper {    
+    background-color: antiquewhite;
+    text-align: center;
+    height: 100vh;   
+}
+.counter{
+    padding-top: 310px;    
+}
+.plus{
+    width: 50px;
+    height: 30px;
+    border-radius: 6px;
+}
+.texts{
+    text-align: center;
+    height: 30px;
+    width: 200px;
+    border-radius: 6px;
+}
+.minus{
+    width: 50px;
+    height: 30px;
+    border-radius: 6px;
+}
